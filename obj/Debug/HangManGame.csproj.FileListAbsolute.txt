@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\SDLessons69\HangManGame\bin\Debug\HangManGame.exe.config
+C:\ElevenFiftyProjects\SDLessons69\HangManGame\bin\Debug\HangManGame.exe
+C:\ElevenFiftyProjects\SDLessons69\HangManGame\bin\Debug\HangManGame.pdb
+C:\ElevenFiftyProjects\SDLessons69\HangManGame\obj\Debug\HangManGame.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\SDLessons69\HangManGame\obj\Debug\HangManGame.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\SDLessons69\HangManGame\obj\Debug\HangManGame.exe
+C:\ElevenFiftyProjects\SDLessons69\HangManGame\obj\Debug\HangManGame.pdb
